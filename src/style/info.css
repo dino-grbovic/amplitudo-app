@@ -1,0 +1,31 @@
+.info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #00bcd40d;
+    margin-left: 40px;
+    margin-top: 20px;
+    max-width: 646px;
+}
+
+.folder-info {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    min-width: 230px;
+}
+
+.description {
+    padding: 10px;
+    font-size: 15px;
+}
+
+.item{
+    color: blue;
+}
+
+.opis {
+    font-weight: bold;
+}
+

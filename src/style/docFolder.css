@@ -1,0 +1,9 @@
+.docFolder {
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.docFolder span {
+    margin-left: 5px;
+}

@@ -1,0 +1,30 @@
+.table {
+    margin-left: 40px;
+}
+
+.table-wrapper {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: separate;
+    border-spacing: 0 5px;
+  }
+.table-row {
+    background-color: #00bcd40d;
+}
+
+
+  
+.table-wrapper td, .table-wrapper th {
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  
+
+.table-wrapper th {
+    border: hidden;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+  }
+
+

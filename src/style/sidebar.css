@@ -1,0 +1,11 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    max-width: 30%;
+    min-width: 275px;
+    height: 750px;
+    background-color: #00bcd40d;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px;   
+}

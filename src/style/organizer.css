@@ -1,0 +1,36 @@
+.organizer {
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+
+.organizer-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.folder-label {
+    display: flex;
+    align-items: center;
+}
+
+.folder-label span {
+    margin-left: 5px;
+}
+
+.hoverMenu {
+    border: 1px hidden black;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 25px;
+    padding: 0px 3px;
+    margin-left: 4px;
+    margin-top: 2px;
+    background-color: #2196f3;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}
+
